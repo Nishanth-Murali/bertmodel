@@ -9,5 +9,4 @@ To install:
 pip install -r requirements.txt
 jupyter notebook
 ```
-
-Then follow the notebooks in your browser.
+Run the Jupyter Notebook DullBERT.ipynb to generate sample paraphrases (change the range in the for loop in line #110 to get more lines of output).
