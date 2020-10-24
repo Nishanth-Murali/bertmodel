@@ -9,4 +9,4 @@ To install:
 pip install -r requirements.txt
 jupyter notebook
 ```
-Run the Jupyter Notebook DullBERT.ipynb to generate sample paraphrases (change the range in the for loop in line #110 to get more lines of output).
+Run the Jupyter Notebook DullBERT.ipynb to generate sample paraphrases (change the range in the for-loop in line #110 to get more lines of output).
