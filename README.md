@@ -15,4 +15,4 @@ Run the Jupyter Notebook DullBERT.ipynb to generate sample paraphrases (change t
 
 # Training of models to evaluate Winogrande dataset
 
-Run the Jupyter Notebook 'NLP_WinoTrain.ipynb' to get the model trained and tested on RoBERTa model and change the model_name or path flag in the final command of the ipynb to elgeish/cs224n-squad2.0-albert-base-v2
+Run the Jupyter Notebook 'NLP_WinoTrain.ipynb' to get the model trained and tested on RoBERTa model and change 'the model_name_or_path' flag in the final command of the ipynb to elgeish/cs224n-squad2.0-albert-base-v2
