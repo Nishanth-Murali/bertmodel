@@ -1,3 +1,5 @@
+# SYNTHETIC DATA GENERATION
+
 # BERT Generative Text
 ## Experiments using BERT for text generation
 
